@@ -1,6 +1,6 @@
 ### Hi 👋, I'm Ernesto
 
-- I'm web developer sice 2021
+- I'm web developer since 2021
 - I am a computer science technical high school graduate
 - I'm currently learning React
 - How to reach me: linkedIn
@@ -8,6 +8,6 @@
 
 ### Languages and tools:
 
-- Javascript | Node.js / Express.JS | Python | Django
+- Javascript / Typescript | Node.js / Express.JS / TypeORM | Python | Django
 - MySQL | PostgreSQL
     
