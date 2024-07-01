@@ -1,6 +1,6 @@
 ### Hi 👋, I'm Ernesto
 
-- I'm web developer since 2021
+- I'm web developer since 2020
 - I am a computer science technical high school graduate
 - I'm currently learning React
 - How to reach me: linkedIn
